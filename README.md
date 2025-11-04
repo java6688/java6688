@@ -1,4 +1,4 @@
-# 你好，我是 [微澜]！ 👋
+# 你好，我是微澜！ 👋
 
 欢迎来到我的 GitHub 主页！
 
@@ -10,20 +10,20 @@
 
 以下是我常用的技术和工具：
 
-- **编程语言:** Java, Python, JavaScript, TypeScript
-- **框架:** React, Vue.js, Nest.js, HarmonyOS, Springboot
+- **编程语言:** Java, Python, JavaScript, TypeScript, Art
+- **框架:** React, Vue.js, Nest.js, ArkUI, Springboot
 - **工具:** Git, VSCode, Vite, Webpack
 - **数据库:** MySQL, MongoDB, Redis
 
 ## 📊 GitHub 统计
 
-![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=java6688&show_icons=true&theme=radical&locale=cn)
+![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=java6688&show_icons=true&theme=radical)
 
-![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=java6688&layout=compact&theme=radical&locale=cn)
+![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=java6688&layout=compact&theme=radical)
 
 ## 📈 GitHub 连续贡献
 
-![GitHub 连续贡献](https://github-readme-streak-stats.herokuapp.com/?user=java6688&theme=radical&locale=cn)
+![GitHub 连续贡献](https://github-readme-streak-stats.herokuapp.com/?user=java6688&theme=radical)
 
 ## 📫 联系我
 
