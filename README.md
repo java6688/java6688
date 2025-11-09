@@ -10,7 +10,7 @@
 
 以下是我常用的技术和工具：
 
-- **编程语言:** Java, Python, JavaScript, TypeScript, Art
+- **编程语言:** Java, Python, JavaScript, TypeScript
 - **框架:** React, Vue.js, Nest.js, ArkUI, Springboot
 - **工具:** Git, VSCode, Vite, Webpack
 - **数据库:** MySQL, MongoDB, Redis
