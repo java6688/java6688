@@ -17,13 +17,13 @@
 
 ## 📊 GitHub 统计
 
-![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=java6688&show_icons=true&theme=radical)
+![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=java6688&show_icons=true)
 
-![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=java6688&layout=compact&theme=radical)
+![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=java6688&layout=compact)
 
 ## 📈 GitHub 连续贡献
 
-![GitHub 连续贡献](https://github-readme-streak-stats.herokuapp.com/?user=java6688&theme=radical)
+![GitHub 连续贡献](https://github-readme-streak-stats.herokuapp.com/?user=java6688)
 
 ## 📫 联系我
 
